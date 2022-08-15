@@ -1,0 +1,4 @@
+build
+dist
+kusozako_text_multiplication.egg-info
+*.pyc

@@ -1,3 +1,3 @@
 from textmul import *
-
-__version__ = "0.0.1"
+from .textmul import TextMul
+__version__ = "0.0.2"
